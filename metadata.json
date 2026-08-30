@@ -1,0 +1,6 @@
+{
+  "name": "AI Coding Agent v6 — Security & Quality Review",
+  "description": "An AI coding agent that reviews code, flags risks, proposes structured diff fixes, and verifies the resolution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
